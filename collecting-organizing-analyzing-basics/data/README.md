@@ -1,0 +1,8 @@
+- `table_export.csv`
+    - https://www.epa.gov/automotive-trends/explore-automotive-trends-data#SummaryData
+    - retrieved 2021-02-01
+    - https://www.epa.gov/automotive-trends/about-automotive-trends-data
+- `MER_T09_04.csv`
+    - https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04#/
+    - retrieved 2021-02-01
+    - https://www.eia.gov/totalenergy/data/monthly/index.php
