@@ -1,10 +1,10 @@
 - `table_export.csv`
     - https://www.epa.gov/automotive-trends/explore-automotive-trends-data#SummaryData
     - From "Estimated Real-World Fuel Economy, CO2 Emissions, and Vehicle Attributes", select "Real-World MPG" and then export as csv
-    - retrieved 2022-01-24
+    - retrieved 2023-01-30
     - https://www.epa.gov/automotive-trends/about-automotive-trends-data
 - `MER_T09_04.csv`
     - From "Energy Prices" as the data category and "Table 9.4 Retail Motor Gasoline and On-Highway Diesel Fuel Prices" as the table, download.
     - https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T09.04#/
-    - retrieved 2021-01-24
+    - retrieved 2023-01-30
     - https://www.eia.gov/totalenergy/data/monthly/index.php
